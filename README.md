@@ -1,3 +1,4 @@
+# Question
 # DataStore-package
 
 This is a python module named 'dataStore'.
@@ -50,3 +51,17 @@ The data store must therefore be thread-safe.
 deriving maximum performance with respect to response times for accessing the data
 store.
 
+# Languages:
+Ideally we would not restrict you from working on language of your choice. However,it would be preferable if you stick with one of these-
+  NodeJS
+  Java
+  Python
+  GoLang
+  Ruby
+  C/C++
+# Submission 
+Submit a link to the source code, ideally commited to Github.
+
+Code accompanied by thorough unit tests is typically a mark of quality work.
+
+Ideally your data store will work on most operating systems. If this is not the case,please specify which OSes are supported.
